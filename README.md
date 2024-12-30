@@ -23,4 +23,5 @@
 - **呼叫 Coindesk 取得資料並轉換**
 ----------
 ## 其他資訊
-- sql 語法 [CUBE.postman_collection.json](CUBE.postman_collection.json)
+- [sql 語法](src/main/resources/db/data.sql) 於本專案內供 H2 初始化資料庫
+- [Postman](CUBE.postman_collection.json) 包含本次測試 API
