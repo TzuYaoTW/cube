@@ -23,4 +23,4 @@
 - **呼叫 Coindesk 取得資料並轉換**
 ----------
 ## 其他資訊
-- sql 語法
+- sql 語法 [CUBE.postman_collection.json](CUBE.postman_collection.json)
