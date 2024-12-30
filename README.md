@@ -5,6 +5,7 @@
 > 使用 Spring Boot 和 Maven 開發
 > 總共包含 API 共六支
 > 本專案包含單元測試
+>
 > - [sql 語法](src/main/resources/db/data.sql) 於本專案內供 H2 初始化資料庫
 > - [Postman](CUBE.postman_collection.json) 包含本次測試 API
 ----------
@@ -29,7 +30,3 @@
 - adapter 層的 ControllerImpl
 - application 層的 UseCaseImpl
 - domain 層的 Domain
-----------
-## 其他資訊
-- [sql 語法](src/main/resources/db/data.sql) 於本專案內供 H2 初始化資料庫
-- [Postman](CUBE.postman_collection.json) 包含本次測試 API
