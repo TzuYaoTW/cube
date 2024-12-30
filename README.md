@@ -1,7 +1,7 @@
-# CoinDesk 面試題目
-> 用於國泰面試 Java 後端用
+# CoinDesk
+> 國泰線上作業
 > 
-> 本專案架構為簡潔架構 Clean Architectre
+> 本專案架構使用簡潔架構 Clean Architectre
 > 使用 Spring Boot 和 Maven 開發
 > 總共包含 API 共六支
 > 本專案包含單元測試
